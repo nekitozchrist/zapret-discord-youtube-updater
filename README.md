@@ -1,6 +1,6 @@
 <p align="center">
 <h1 align="center">
-  🚀 Скрипт автоматического обновления 🚀
+  🚀 Скрипт обновления 🚀
 <h1 align="center">
   zapret-discord-youtube
 </h1></p>
