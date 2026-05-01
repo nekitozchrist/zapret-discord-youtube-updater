@@ -31,7 +31,7 @@
 
 ### 📥 Использование
 
-1. Распакуйте [скрипт обновления](https://github.com/AITISPEC/Helpful/releases/download/update-zdy/ZDY_Updater.zip) в корень установленного zapret-discord-youtube.
+1. Распакуйте [скрипт обновления](https://github.com/nekitozchrist/zapret-discord-youtube-updater/releases/download/1.0.0/ZDY_Updater_v1.0.0.zip) в корень установленного zapret-discord-youtube.
 2. Новую версию [zapret-discord-youtube](https://github.com/flowseal/zapret-discord-youtube/releases) распакуйте в папку `update`.
 3. Запустите `update.bat`.
 
