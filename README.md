@@ -7,7 +7,7 @@
   
 ### 📦 Назначение
 
-Скрипты для бесшовного обновления уже установленной версии [zapret-discord-youtube](https://github.com/flowseal/zapret-discord-youtube).
+Скрипты для бесшовного обновления уже установленной версии zapret-discord-youtube.
 Скачайте новую версию, распакуйте содержимое в папку `update` внутри основного каталога и запустите `update.bat`.
 
 ### ✨ Что делает update.bat
@@ -31,7 +31,7 @@
 
 ### 📥 Использование
 
-1. Распакуйте [скрипт обновления](https://github.com/nekitozchrist/zapret-discord-youtube-updater/releases/download/1.0.0/ZDY_Updater_v1.0.0.zip) в корень установленного zapret-discord-youtube.
+1. Распакуйте [скрипт обновления](https://github.com/nekitozchrist/zapret-discord-youtube-updater/releases) в корень установленного zapret-discord-youtube.
 2. Новую версию [zapret-discord-youtube](https://github.com/flowseal/zapret-discord-youtube/releases) распакуйте в папку `update`.
 3. Запустите `update.bat`.
 
