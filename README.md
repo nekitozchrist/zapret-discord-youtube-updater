@@ -1,5 +1,10 @@
-## 🚀 Скрипт автоматического обновления zapret-discord-youtube
-
+<p align="center">
+<h1 align="center">
+  🚀 Скрипт автоматического обновления 🚀
+<h1 align="center">
+  zapret-discord-youtube
+</h1></p>
+  
 ### 📦 Назначение
 
 Скрипты для бесшовного обновления уже установленной версии [zapret-discord-youtube](https://github.com/flowseal/zapret-discord-youtube).
